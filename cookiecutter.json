@@ -11,7 +11,12 @@
 
     "environment": {
         "zope_i18n_compile_mo_files": "true",
-        "CHAMELEON_CACHE": "{{ cookiecutter.location_clienthome }}/cache"
+        "CHAMELEON_CACHE": "{{ cookiecutter.location_clienthome }}/cache",
+        "ENTREZ_EMAIL": "",
+        "ENTREZ_API_KEY": "",
+        "OPENSEARCH_HOSTS": "",
+        "OPENSEARCH_HTTP_USERNAME": "",
+        "OPENSEARCH_USE_SSL": true
     },
 
     "initial_user_name": "",
