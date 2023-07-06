@@ -32,6 +32,7 @@
     "db_cache_size_bytes": "",
     "db_large_record_size": "",
     "db_pool_size": "",
+    "mounted_dbs": [],
 
     "db_blobs_mode": ["shared", "cache"],
     "db_blobs_location": "{{ cookiecutter.location_clienthome }}/blobs",
