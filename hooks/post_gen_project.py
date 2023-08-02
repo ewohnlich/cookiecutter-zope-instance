@@ -62,7 +62,7 @@ if not os.path.exists(inituser_filename):
 
 # post generation step 3: generate directories
 with work_in(basedir):
-    Path("{{ cookiecutter.location_clienthome }}").mkdir(parents=True, exist_ok=True)
+    Path("{{ cookiecutter.location_clienthome }}/cache").mkdir(parents=True, exist_ok=True)
     Path("{{ cookiecutter.location_log }}").mkdir(parents=True, exist_ok=True)
     Path("{{ cookiecutter.db_blobs_location }}").mkdir(parents=True, exist_ok=True)
     # Path("{{ cookiecutter.environment['CHAMELEON_CACHE'] }}").mkdir(parents=True, exist_ok=True)
