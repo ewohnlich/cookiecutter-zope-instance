@@ -16,8 +16,7 @@
         "ENTREZ_API_KEY": "",
         "OPENSEARCH_HOSTS": "",
         "OPENSEARCH_HTTP_USERNAME": "",
-        "OPENSEARCH_USE_SSL": true,
-        "PIP_CONFIG_FILE": ""
+        "OPENSEARCH_USE_SSL": true
     },
 
     "initial_user_name": "",
