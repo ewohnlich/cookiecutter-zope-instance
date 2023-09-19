@@ -19,8 +19,10 @@
         "OPENSEARCH_USE_SSL": true
     },
 
-    "loghandler_class": "",
-    "loghandler_args": "",
+    "access_log_handler_class": "",
+    "access_log_handler_args": "",
+    "event_log_handler_class": "",
+    "event_log_handler_args": "",
 
     "initial_user_name": "",
     "initial_user_password": "",
