@@ -17,6 +17,8 @@
         "OPENSEARCH_HOSTS": "",
         "OPENSEARCH_HTTP_USERNAME": "",
         "OPENSEARCH_USE_SSL": true
+        "CCONF_KEY_PATH": "",
+        "CCONF_ENV_PATH": ""
     },
 
     "access_log_handler_class": "",
