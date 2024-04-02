@@ -17,7 +17,7 @@
         "OPENSEARCH_USE_SSL": true,
         "CCONF_KEY_FILE": "",
         "CCONF_ENV_FILE": "",
-        "OKTA_LOGOUT_URL": ""
+        "OKTA_LOGOUT_URL": "",
         "SQUISH_URL": ""
     },
 
