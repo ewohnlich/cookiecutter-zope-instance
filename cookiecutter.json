@@ -18,6 +18,7 @@
         "CCONF_KEY_FILE": "",
         "CCONF_ENV_FILE": "",
         "OKTA_LOGOUT_URL": ""
+        "SQUISH_URL": ""
     },
 
     "access_log_handler_class": "",
