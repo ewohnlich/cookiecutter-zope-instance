@@ -113,7 +113,7 @@
     "profile_repoze_discard_first_request": "",
     "profile_repoze_path": "",
     "profile_repoze_flush_at_shutdown": "",
-    "profile_repoze_unwind": ""
+    "profile_repoze_unwind": "",
 
     "dos_protection_available": true,
     "dos_protection_form_part_limit": "16000",
