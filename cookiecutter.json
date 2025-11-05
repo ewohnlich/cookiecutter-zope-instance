@@ -115,4 +115,10 @@
     "profile_repoze_flush_at_shutdown": "",
     "profile_repoze_unwind": ""
 
+    "dos_protection_available": true,
+    "dos_protection_form_part_limit": "16000",
+    "dos_protection_form_memory_limit": "1MB",
+    "dos_protection_form_disk_limit": "1GB",
+    "dos_protection_form_memfile_limit": "4KB",
+
 }
